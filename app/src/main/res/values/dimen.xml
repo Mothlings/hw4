@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buttonPadding">5dp</dimen>
+    <dimen name="buttonMargin">10dp</dimen>
+    <dimen name="TextPadding">7dp</dimen>
+    <dimen name="TextMargin">10dp</dimen>
+    <dimen name="buttonFontSize">16dp</dimen>
+    <dimen name="TextEditFontSize">18dp</dimen>
+
+    <dimen name="buttonDefaultHeight">40dp</dimen> //used wrap
+</resources>

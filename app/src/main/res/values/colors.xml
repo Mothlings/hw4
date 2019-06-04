@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="ivory">#FEFAEF</color>
+    <color name="cream">#EFE0BF</color>
+    <color name="biege">#D5B795</color>
+    <color name="nude">#F1D5BF</color>
+    <color name="taupe">#B6A59D</color>
+    <color name="mocha">#A29493</color>
+    <color name="sand">#ECDFCC</color>
+    <color name="Tan">#B69574</color>
+    <color name="camel">#A97C5B</color>
+    <color name="olive">#544A3E</color>
+    <color name="army">#736E46</color>
+    <color name="Khaki">#605D3C</color>
+    <color name="idk">#9E8C77</color>
+</resources>
